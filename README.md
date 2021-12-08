@@ -1,4 +1,5 @@
 # Conway's Game of Life simulation
+[![Build Passing](https://github.com/heartwilltell/gameoflife/actions/workflows/master.yml/badge.svg)](https://github.com/heartwilltell/gameoflife/actions/workflows/master.yml)
 
 This repo contains implementation of Conway's Game of Life simulator.
 
